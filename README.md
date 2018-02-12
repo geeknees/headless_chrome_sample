@@ -4,7 +4,7 @@
 
 https://www.google.com/chrome/browser/canary.html
 
-- Add Alias
+- Add Alias (mac)
 ```
 alias chrome-c='/Applications/Google\ Chrome\ Canary.app/Contents/MacOS/Google\ Chrome\ Canary'
 ```
